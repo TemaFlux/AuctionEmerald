@@ -1,0 +1,9 @@
+name: AuctionEmerald
+main: me.temaflux.auctionemerald.AuctionEmeraldPlugin
+version: 1.0.0-SNAPSHOT
+description: "Аукцион на изумрудах"
+author: TemaFlux
+api-version: 1.13
+commands:
+  auctionemerald:
+    aliases: ["ae"]
